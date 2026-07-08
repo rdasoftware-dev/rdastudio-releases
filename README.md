@@ -190,9 +190,13 @@ Chave pública: [chave-gpg-aqui]
 Links
 
 · 🌐 Site oficial: rdastudio.com.br
+
 · 📖 Documentação: rdastudio.com.br/docs
+
 · 📧 Contato: contato@rdastudio.com.br
+
 · 🏢 RDA Software: rdasoftware.com.br
+
 · 💻 GitHub: github.com/rdasoftware-dev
 
 ---
